@@ -1,5 +1,5 @@
 <h1 align="center" style="color: white;">Welcome to my GitHub! I'm Heet Zalavadiya 👋💻</h1>
-<h3 align="center" style="color: white;">Enthusiastic First-Year CSE Student | Exploring the World of Code</h3>
+<h3 align="center" style="color: white;">Enthusiastic Second-Year CSE Student | Exploring the World of Code</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=heet-zalavadiya&label=Profile%20views&color=0e75b6&style=flat" alt="heet-zalavadiya" />
