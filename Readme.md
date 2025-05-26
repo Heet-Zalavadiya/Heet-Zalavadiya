@@ -1,59 +1,52 @@
-<h1 align="center" style="color: white;">Welcome to my GitHub! I'm Heet Zalavadiya 👋💻</h1>
-<h3 align="center" style="color: white;">Enthusiastic Second-Year CSE Student | Exploring the World of Code</h3>
+<h1 align="center">Welcome to my GitHub! I'm Heet Zalavadiya 👋💻</h1>
+
+###
+
+<h3 align="center">Enthusiastic Second-Year CSE Student | Exploring the World of Code</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=heet-zalavadiya&label=Profile%20views&color=0e75b6&style=flat" alt="heet-zalavadiya" />
 </p>
 
-<h3 align="center" style="color: white;">Connect with me:</h3>
-<p align="center">
-  <a href="https://www.linkedin.com/in/heet-zalavadiya-756865336/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://www.hackerrank.com/profile/heetzalavadia" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
-  </a>
-</p>
 
-<h3 align="center" style="color: white;">Languages and Tools:</h3>
-<p align="center">
-  <!-- Python icon -->
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <!-- Java icon -->
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  <!-- HTML icon -->
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <!-- CSS icon -->
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <!-- C icon -->
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  </a>
-  <!-- Git icon -->
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-</p>
+###
 
-<!-- Dark theme stats section -->
-<div align="center" style="background-color: #2e2e2e; padding: 20px; border-radius: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=heet-zalavadiya&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
+<div align="center">
+  <img height="200" src="https://private-user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDgyNDIwODAsIm5iZiI6MTc0ODI0MTc4MCwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjU0NDAtODA3Mjg4MjAtZTA2Yi00Zjk2LTljOWUtOWRmNDZmMGNjMGE1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA1MjYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNTI2VDA2NDMwMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWYwMGExYTE2YzY3ZDEzZjBiMzcxOWViZDA4OTIwN2RhZWRkYzVjZThhYWMzYTBjNDRmYjVmYmI0ZGZmMjczODMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.5poqdpdxQWC0V8BAc7ggIo0QOZHg2kvIT4OwxrCHpCo"  />
 </div>
 
-<div align="center" style="background-color: #2e2e2e; padding: 20px; border-radius: 10px; margin-top: 20px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=heet-zalavadiya&theme=dark" alt="GitHub Streak Stats" />
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
 </div>
 
-<!-- Dark theme top languages section -->
-<div align="center" style="background-color: #2e2e2e; padding: 20px; border-radius: 10px; margin-top: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=heet-zalavadiya&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=heet-zalavadiya&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" /> <br>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=heet-zalavadiya&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
 </div>
 
+###
