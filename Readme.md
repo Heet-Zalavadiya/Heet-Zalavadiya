@@ -1,4 +1,4 @@
-<h1 align="center">Hi! I'm Heet Zalavadiya 👋💻</h1>
+<h1 align="center">👋 Hi! I'm Heet Zalavadiya 💻</h1>
 
 ###
 
