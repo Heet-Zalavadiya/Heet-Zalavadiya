@@ -11,9 +11,7 @@
 
 ###
 
-<div align="center">
-  <img  width="600" src="https://github-production-user-asset-6210df.s3.amazonaws.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250527%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250527T040342Z&X-Amz-Expires=300&X-Amz-Signature=b0723851d3c2588ffe3089dcec5a613044ff33f887887386a7984dfecc6e5dd6&X-Amz-SignedHeaders=host"  />
-</div>
+<hr>
 
 ###
 
