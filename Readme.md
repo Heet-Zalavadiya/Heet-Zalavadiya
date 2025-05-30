@@ -15,6 +15,7 @@
 
 ###
 
+<h2 align="center">🧑‍💻 Tech Stack</h2>
 <br clear="both">
 
 <div align="center">
