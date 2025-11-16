@@ -18,6 +18,16 @@
 - 🧩 Love solving logical & coding problems
 
 ---
+<table align="center">
+<tr>
+<td width="160" align="center">
+
+<img src="https://avatars.githubusercontent.com/u/192889376?s=400&v=4" width="150" style="border-radius: 50%;">
+
+</td>
+
+<td>
+
 <h2 align="center">🛠️ Technologies & Tools</h2>
 
 <h4 align="center">💻 Programming Languages</h4>
@@ -55,6 +65,11 @@
 <h3 align="center">
 🧠 Logic &nbsp;•&nbsp; 🔍 Debugging &nbsp;•&nbsp; 🚀 Clean Code &nbsp;•&nbsp; 📦 API Dev &nbsp;•&nbsp; 🛠️ Problem Solving
 </h3>
+
+</td>
+</tr>
+</table>
+
 
 ---
 ## 📈 GitHub Stats & Activity
