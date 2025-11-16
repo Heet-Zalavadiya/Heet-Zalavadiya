@@ -2,41 +2,78 @@
 
 ###
 
-<h3 align="center">Enthusiastic Second-Year CSE Student | Exploring the World of Code</h3>
+<h3 align="center">B.Tech CSE | 4th Semester | Exploring the World of Code</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=heet-zalavadiya&label=Profile%20views&color=0e75b6&style=flat" alt="heet-zalavadiya" />
 </p>
 
 
-###
+---
 
-###
+## 🔥 About Me
+- 🎓 **4th Semester B.Tech CSE student**
+- 💻 Interested in **DSA, Databases, Full Stack Development**
+- 🌱 Improving **C, Python, SQL, DBMS,and DSA**
+- 🧩 Love solving logical & coding problems
 
-<h2 align="center">🧑‍💻 Tech Stack</h2>
-<br>
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-</div>
+---
 
-<hr>
+## 🛠️ Technologies & Tools
 
+### 💻 Programming Languages
+- 🟦 **C**
+- ☕ **Java**
+- 🐍 **Python**
+- 🟧 **JavaScript**
+- 🧵 **HTML**
+- 🎨 **CSS**
+
+  ---
+
+### ⚛️ Frameworks & Libraries
+- ⚛️ **React.js**
+- ▲ **Next.js**
+- 🛡️ **NestJS**
+- 🟩 **Node.js**
+- 🚀 **Express.js**
+- 💨 **Tailwind CSS**
+- 🧩 **Bootstrap**
+
+---
+
+### 🗄️ Databases
+- 🪣 **MS SQL Server**
+- 🍃 **MongoDB**
+
+---
+
+### 🧠 Core CS Subjects
+- 📚 **Data Structures & Algorithms**
+- 🧵 **Object Oriented Programming**
+- 🛢️ **DBMS**
+
+---
+
+### 🔧 Tools & Technologies
+- 🧰 **Git**
+- 🐙 **GitHub**
+- 📝 **VS Code**
+- 🌐 **Web Development**
+- ⚡ **REST APIs** (Basics)
+
+---
+
+### 🧩 Additional Skills
+- 🧠 Logical Thinking  
+- 🔍 Debugging  
+- 🚀 Clean Code Practices
+- 📦 API Development (Basics)  
+- 🛠️ Problem Solving  
+
+
+---
+## 📈 GitHub Stats & Activity
 <br clear="both">
 
 <div align="center">
