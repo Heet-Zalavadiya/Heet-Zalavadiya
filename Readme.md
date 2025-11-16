@@ -20,12 +20,6 @@
 ---
 <table align="center">
 <tr>
-<td width="160" align="center">
-
-<img src="https://avatars.githubusercontent.com/u/192889376?s=400&v=4" style="max-width: 180px; width: 100%; border-radius: 50%;" />
-
-</td>
-
 <td>
 
 <h2 align="center">🛠️ Technologies & Tools</h2>
