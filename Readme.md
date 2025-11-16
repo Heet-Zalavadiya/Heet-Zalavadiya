@@ -18,59 +18,43 @@
 - 🧩 Love solving logical & coding problems
 
 ---
+<h2 align="center">🛠️ Technologies & Tools</h2>
 
-## 🛠️ Technologies & Tools
+<h4 align="center">💻 Programming Languages</h4>
+<p align="center">────────────</p>
+<h3 align="center">
+🟦 C &nbsp;•&nbsp; ☕ Java &nbsp;•&nbsp; 🐍 Python &nbsp;•&nbsp; 🟧 JavaScript &nbsp;•&nbsp; 🧵 HTML &nbsp;•&nbsp; 🎨 CSS
+</h3>
 
-### 💻 Programming Languages
-- 🟦 **C**
-- ☕ **Java**
-- 🐍 **Python**
-- 🟧 **JavaScript**
-- 🧵 **HTML**
-- 🎨 **CSS**
+<h4 align="center">⚛️ Frameworks & Libraries</h4>
+<p align="center">────────────</p>
+<h3 align="center">
+⚛️ React &nbsp;•&nbsp; ▲ Next.js &nbsp;•&nbsp; 🛡️ NestJS &nbsp;•&nbsp; 🟩 Node.js &nbsp;•&nbsp; 🚀 Express.js &nbsp;•&nbsp; 💨 Tailwind &nbsp;•&nbsp; 🧩 Bootstrap
+</h3>
 
-  ---
+<h4 align="center">🗄️ Databases</h4>
+<p align="center">────────────</p>
+<h3 align="center">
+🪣 MS SQL Server &nbsp;•&nbsp; 🍃 MongoDB
+</h3>
 
-### ⚛️ Frameworks & Libraries
-- ⚛️ **React.js**
-- ▲ **Next.js**
-- 🛡️ **NestJS**
-- 🟩 **Node.js**
-- 🚀 **Express.js**
-- 💨 **Tailwind CSS**
-- 🧩 **Bootstrap**
+<h4 align="center">🧠 Core CS Subjects</h4>
+<p align="center">────────────</p>
+<h3 align="center">
+📚 DSA &nbsp;•&nbsp; 🧵 OOP &nbsp;•&nbsp; 🛢️ DBMS
+</h3>
 
----
+<h4 align="center">🔧 Tools</h4>
+<p align="center">────────────</p>
+<h3 align="center">
+🧰 Git &nbsp;•&nbsp; 🐙 GitHub &nbsp;•&nbsp; 📝 VS Code &nbsp;•&nbsp; 🌐 Web Dev &nbsp;•&nbsp; ⚡ REST APIs
+</h3>
 
-### 🗄️ Databases
-- 🪣 **MS SQL Server**
-- 🍃 **MongoDB**
-
----
-
-### 🧠 Core CS Subjects
-- 📚 **Data Structures & Algorithms**
-- 🧵 **Object Oriented Programming**
-- 🛢️ **DBMS**
-
----
-
-### 🔧 Tools & Technologies
-- 🧰 **Git**
-- 🐙 **GitHub**
-- 📝 **VS Code**
-- 🌐 **Web Development**
-- ⚡ **REST APIs** (Basics)
-
----
-
-### 🧩 Additional Skills
-- 🧠 Logical Thinking  
-- 🔍 Debugging  
-- 🚀 Clean Code Practices
-- 📦 API Development (Basics)  
-- 🛠️ Problem Solving  
-
+<h4 align="center">🧩 Additional Skills</h4>
+<p align="center">────────────</p>
+<h3 align="center">
+🧠 Logic &nbsp;•&nbsp; 🔍 Debugging &nbsp;•&nbsp; 🚀 Clean Code &nbsp;•&nbsp; 📦 API Dev &nbsp;•&nbsp; 🛠️ Problem Solving
+</h3>
 
 ---
 ## 📈 GitHub Stats & Activity
