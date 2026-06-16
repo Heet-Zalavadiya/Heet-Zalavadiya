@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">B.Tech CSE | 4th Semester | Exploring the World of Code</h3>
+<h3 align="center">B.Tech CSE | 5th Semester | Exploring the World of Code</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=heet-zalavadiya&label=Profile%20views&color=0e75b6&style=flat" alt="heet-zalavadiya" />
@@ -12,9 +12,9 @@
 ---
 
 ## 🔥 About Me
-- 🎓 **4th Semester B.Tech CSE student**
-- 💻 Interested in **DSA, Databases, Full Stack Development**
-- 🌱 Improving **C, Python, SQL, DBMS,and DSA**
+- 🎓 **5th Semester B.Tech CSE student**
+- 💻 Interested in **ML, Databases, Full Stack Development**
+- 🌱 Improving **Python, SQL, DBMS,and DSA**
 - 🧩 Love solving logical & coding problems
 
 ---
